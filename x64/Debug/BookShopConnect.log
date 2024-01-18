@@ -1,0 +1,9 @@
+﻿  source.cpp
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(252,13): warning C4311: 'type cast': pointer truncation from 'char *' to 'int'
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(252,13): warning C4302: 'type cast': truncation from 'char *' to 'int'
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(253,12): warning C4311: 'type cast': pointer truncation from 'char *' to 'int'
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(253,12): warning C4302: 'type cast': truncation from 'char *' to 'int'
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(690,12): warning C4311: 'type cast': pointer truncation from 'char *' to 'int'
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(690,12): warning C4302: 'type cast': truncation from 'char *' to 'int'
+C:\Users\RiyuanLiu\source\repos\BookShopConnect\BookShopConnect\source.cpp(1061,6): warning C4101: 'choice': unreferenced local variable
+  BookShopConnect.vcxproj -> C:\Users\RiyuanLiu\source\repos\BookShopConnect\x64\Debug\BookShopConnect.exe
