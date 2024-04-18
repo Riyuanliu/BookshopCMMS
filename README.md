@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-Upgrade your C++ skills by developing a Bookshop Management System – an application designed to streamline book-related activities. This user-friendly system allows customers to interact with the book inventory seamlessly. Users can perform various operations like adding and displaying books, making modifications, and managing pages. The system is designed to be accessible and easy to use, enabling users to check and purchase their favorite books with a single click.
+Bookshop Management System – an application designed to streamline book-related activities. This user-friendly system allows customers to interact with the book inventory seamlessly. Users can perform various operations like adding and displaying books, making modifications, and managing pages. The system is designed to be accessible and easy to use, enabling users to check and purchase their favorite books with a single click.
 
 ## Features:
 
